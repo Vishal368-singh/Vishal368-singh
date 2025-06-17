@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **python, full stack web devlopment with flask**
 
-- 👨‍💻 All of my projects are available at [vishalportfolio.great-site.net](vishalportfolio.great-site.net)
+- 👨‍💻 All of my projects are available at [https://vishal368-singh.github.io/PrabhaVi-AI/]
 
 - 💬 Ask me about **MERN ,Web devlopment, python**
 
