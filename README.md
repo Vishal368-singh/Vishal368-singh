@@ -93,13 +93,14 @@ https://drive.google.com/file/d/1ktDxRbKPEBk6tNpEzSETWWh2qhWcRMst/view?usp=shari
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishal368-singh&show_icons=true&theme=default&cache_seconds=1800"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal368-singh&layout=compact&langs_count=8"/>
+<img 
+src="https://github-readme-streak-stats.herokuapp.com?user=Vishal368-singh" 
+height="170"
+/>
 
 </p>
 
