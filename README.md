@@ -5,7 +5,7 @@ Software Developer | Full Stack Engineer | Angular • MERN • Python
 </h3>
 
 <p align="center">
-Focused on scalable backend systems, REST API development, performance optimization, and modern web architecture.
+Focused on scalable  systems, REST API development, performance optimization, and modern web architecture.
 </p>
 
 ---
